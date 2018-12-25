@@ -1,1 +1,1 @@
-This code is a parallel version of merge sort using Pthreads. The number of threads and array elements can be varied. 
+This is a parallel version of merge sort using Pthreads. The number of threads and array elements can be varied. 
