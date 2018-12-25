@@ -7,8 +7,8 @@
 #include <chrono>
 using namespace std;
 // Varying number of elements and threads. Elements/Threads needs to be an integer.
-#define ELEMENTS 30000000
-#define THREADS 60
+#define ELEMENTS 1000000
+#define THREADS 8
 
 void mergeSort(int[], int, int);
 void merge(int[], int, int, int);
