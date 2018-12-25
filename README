@@ -1,1 +1,2 @@
 This is a parallel version of merge sort using Pthreads. It supports varying number of threads and array elements. 
+This code splits the array into sub-arrays, merge sorting each of the sub-arrays, and lastly merging the sorted subarrays into one array. 
